@@ -1,7 +1,0 @@
-language = "python3"
-
-[env]
-BOT_TOKEN="8069045379:AAH90DA3JkZ2noQeSXLg2asssGySuZrzS7I"
-
-[run]
-command = "python3 main.py"
